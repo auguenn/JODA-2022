@@ -2,7 +2,7 @@
 
 Repo for the course work in course TIJO.222 Introduction to Data Science in Tampere University.
 
--Contents of the course 
+CONTENTS OF THE COURSE
 
   -Core Content:
     Interactive calculation,
